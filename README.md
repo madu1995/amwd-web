@@ -5,3 +5,5 @@ followed By Thilina R. Madushanka
 
 To run :
     Please Install live server extenstion in vs code
+
+    Thank you!
